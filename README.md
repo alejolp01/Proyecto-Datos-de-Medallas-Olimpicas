@@ -1,9 +1,7 @@
 # Proyecto Datos de Medallas Olímpicas
 
 ## Descripción
-En este proyecto se analizan una tabla de excel utilizando la librería de Pandas para obtener información de las medallas olímpicas. Todos los infromación se encuentra en el archivo "Proyecto Datos de Medallas Olímpicas" 
-Este proyecto lo desarrollé durante el curso un curso de Datascience con python.
-
+En este proyecto, se analiza una tabla de Excel utilizando la biblioteca Pandas para obtener información sobre las medallas olímpicas. Todos los datos se encuentran en el archivo "Proyecto Datos de Medallas Olímpicas". Este proyecto lo desarrollé durante un curso de Data Science con Python.
 
 **Archivo .csv**
 En la carpeta se encontrará "medallas"
